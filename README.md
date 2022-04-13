@@ -1,2 +1,1 @@
-# odin-recipes
-my recipe website 
+This is my first project about a recipe website 
